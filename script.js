@@ -1,5 +1,5 @@
-import API_KEY from './config.js';
-
+import API_KEY from './config.js'; //remove this
+//const API_KEY = 'YOUR_API_KEY'; //uncomment this line and put your api key here
 const cityInput = document.querySelector("#city_input");
 const searchBtn = document.querySelector("#searchBtn");
 const locationBtn = document.querySelector("#locationBtn");
